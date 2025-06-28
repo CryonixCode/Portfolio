@@ -20,4 +20,5 @@ Hi! I'm CryonixCode, a Full Stack developer skilled in crafting modern web and W
 - Advocate for functional programming and maintainable code
 - Eager to tackle new projects and contribute to open-source
 
-📫 Contact: cryonixcode@gmail.com
+📫 Contact gmail : cryonixcode@gmail.com
+📫 Contact telegram : @cryonixcode
