@@ -1,6 +1,4 @@
-# CryonixCode
-
-Hi! I'm CryonixCode, a Full Stack developer skilled in crafting modern web and Web3 applications. I build robust, scalable solutions, leveraging both traditional web technologies and cutting-edge tools, with a focus on clean code and efficient infrastructure.
+Hi! I'm LumeCore, a Full Stack developer skilled in crafting modern web and Web3 applications. I build robust, scalable solutions, leveraging both traditional web technologies and cutting-edge tools, with a focus on clean code and efficient infrastructure.
 
 ## Skills
 - **Languages**: Python, JavaScript, Java, Kotlin, PHP, Tact (TON blockchain)
@@ -19,7 +17,5 @@ Hi! I'm CryonixCode, a Full Stack developer skilled in crafting modern web and W
 - Streamline deployments with Docker and Kubernetes
 - Advocate for functional programming and maintainable code
 - Eager to tackle new projects and contribute to open-source
-
-📫 Contact gmail : cryonixcode@gmail.com
 
 📫 Contact telegram : @cryonixcode
