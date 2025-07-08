@@ -23,7 +23,7 @@
 - Участвую в open-source проектах и открыт к новым вызовам.
 
 ### Связаться со мной
-📫 Telegram: [@cryonixcode](https://t.me/cryonixcode)  
+📫 Telegram: [@lumecor](https://t.me/lumecor)  
 🌐 Готов к сотрудничеству, фриланс-проектам и вкладу в open-source!
 
 ---
@@ -51,5 +51,5 @@ Hello, I'm LumeCore — a Full Stack developer with expertise in building modern
 - Contribute to open-source projects and embrace new challenges.
 
 ### Contact Me
-📫 Telegram: [@cryonixcode](https://t.me/cryonixcode)  
+📫 Telegram: [@lumecor](https://t.me/lumecor)  
 🌐 Open to collaboration, freelance projects, and open-source contributions!
